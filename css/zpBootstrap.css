@@ -50,7 +50,7 @@ body {
 }
 
 .page-header {
-  margin-top: 5px;
+  margin-top: 3px;
 }
 
 blockquote small,
@@ -70,7 +70,7 @@ blockquote.small {
 }
 
 .margin-bottom-reset {
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 .margin-left-reset {
